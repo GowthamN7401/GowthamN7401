@@ -18,7 +18,7 @@
 
 ## About
 
-I'm a Computer Science and Engineering student at **R.M.D. Engineering College, Chennai**, graduating in **2027**. I build backend services, full-stack web apps and machine learning projects, with a particular interest in cybersecurity.
+I'm a Computer Science and Engineering student at **R.M.D. Engineering College, Chennai** (2023 to 2027), interested in software development, backend engineering and cybersecurity. I enjoy learning new technologies, solving real-world problems and building reliable software.
 
 I'm looking for **software development internships and fresher roles**.
 
@@ -30,7 +30,7 @@ I'm looking for **software development internships and fresher roles**.
 
 | Backend | Machine learning | Security | Full-stack |
 |:---:|:---:|:---:|:---:|
-| Java, Spring Boot, FastAPI | Python, Scikit-learn | Vulnerability prioritization | React, REST APIs, MySQL |
+| Java, Spring Boot, REST APIs, FastAPI | Python, Scikit-learn | Vulnerability prioritization, Nmap | React.js, HTML, CSS, JavaScript, MySQL |
 
 </div>
 
@@ -41,10 +41,19 @@ I'm looking for **software development internships and fresher roles**.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,js,html,css,react,tailwind,spring,fastapi,mysql,sqlite,git,github,linux,vscode&theme=dark&perline=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,js,html,css,react,tailwind,spring,fastapi,mysql,sqlite,git,github,linux,vscode&theme=light&perline=8">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,tailwind,spring,fastapi,mysql,sqlite,git,github,linux,vscode&perline=8" alt="Tech stack"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,fastapi,mysql,sqlite,azure,git,github,linux&theme=dark&perline=7">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,fastapi,mysql,sqlite,azure,git,github,linux&theme=light&perline=7">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,spring,fastapi,mysql,sqlite,azure,git,github,linux&perline=7" alt="Tech stack"/>
 </picture>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Nmap-Network_scanning-4682B4?style=flat-square" alt="Nmap"/>
+<img src="https://img.shields.io/badge/Render-Deployment-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render"/>
+<img src="https://img.shields.io/badge/REST-API_development-009688?style=flat-square" alt="REST API"/>
+<img src="https://img.shields.io/badge/OOP-Object--oriented_programming-1f6feb?style=flat-square" alt="OOP"/>
+<img src="https://img.shields.io/badge/DSA-Data_structures_%26_algorithms-F7931E?style=flat-square" alt="DSA"/>
+<img src="https://img.shields.io/badge/Computer_Networks-Fundamentals-7b3fe4?style=flat-square" alt="Computer Networks"/>
 
 </div>
 
@@ -60,16 +69,15 @@ I'm looking for **software development internships and fresher roles**.
 
 Consolidates vulnerability findings from security scanners and helps decide which ones to fix first.
 
-- Ingests scan results from **OWASP ZAP** and **OpenVAS**
-- Deduplicates repeated alerts
-- Filters false positives with a **three-stage Random Forest** model
-- Prioritizes risk using vulnerability and threat intelligence signals
-- Dynamic risk scoring with **P1 to P4** remediation tracking
+- Automated ingestion of **OWASP ZAP** and **OpenVAS** scans, eliminating **84.4%** of duplicate vulnerability alerts
+- **Three-stage Random Forest** model, backed by **CISA KEV** and **EPSS** threat intelligence
+- Dynamic **0 to 100 risk scoring engine** with automated **P1 to P4 SLA** remediation tracking
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
 <img src="https://img.shields.io/badge/NetworkX-Graph_analysis-1f6feb?style=flat-square" alt="NetworkX"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
 
 <br/><br/>
@@ -78,16 +86,14 @@ Consolidates vulnerability findings from security scanners and helps decide whic
 </details>
 
 <details>
-<summary><b>CareerConnect</b> &nbsp;·&nbsp; Full-stack job portal</summary>
+<summary><b>CareerConnect</b> &nbsp;·&nbsp; Job portal</summary>
 <br/>
 
 A web portal that connects job seekers with employers.
 
-- User registration and **role-based login**
-- Separate job seeker and employer workflows
-- Job posting, search and applications
-- Resume upload and job management
-- Responsive interface
+- Secure user registration and **role-based login** for job seekers and employers
+- Job posting, job search and job applications with **resume upload**
+- Responsive, user-friendly interfaces for authentication and job management
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
@@ -100,24 +106,53 @@ A web portal that connects job seekers with employers.
 
 </details>
 
-<details>
-<summary><b>AI-Driven B2B Lead Scoring and ABM Optimization</b> &nbsp;·&nbsp; Infosys Springboard internship</summary>
 <br/>
 
-An internship project that applies machine learning to business lead prioritization and account-based marketing.
+## Internship
 
-- AI-driven lead scoring
-- Lead and customer analysis
-- Lead prioritization for marketing workflows
+<details>
+<summary><b>Infosys Springboard</b> &nbsp;·&nbsp; Virtual internship, AI-Driven B2B Lead Scoring Optimization</summary>
+<br/>
 
-<img src="https://img.shields.io/badge/AI%2FML-7b3fe4?style=flat-square" alt="AI/ML"/>
-<img src="https://img.shields.io/badge/Business_analytics-1f6feb?style=flat-square" alt="Business analytics"/>
-<img src="https://img.shields.io/badge/Infosys_Springboard-007CC3?style=flat-square" alt="Infosys Springboard"/>
+Completed a virtual internship on AI-driven B2B lead scoring optimization. Developed an AI-based solution for business lead prioritization and gained hands-on industry experience.
 
-<br/><br/>
-<a href="https://github.com/GowthamN7401/infosys-internship-project"><img src="https://img.shields.io/badge/View_repository-181717?style=for-the-badge&logo=github" alt="View internship project"/></a>
+<a href="https://github.com/GowthamN7401/infosys-internship-project"><img src="https://img.shields.io/badge/View_project-181717?style=for-the-badge&logo=github" alt="View internship project"/></a>
 
 </details>
+
+<br/>
+
+## Education
+
+<details>
+<summary><b>B.E. Computer Science and Engineering</b> &nbsp;·&nbsp; 2023 to 2027</summary>
+<br/>
+
+R.M.D. Engineering College, Chennai. **CGPA: 7.67**
+
+</details>
+
+<details>
+<summary><b>Higher Secondary</b> &nbsp;·&nbsp; 2023</summary>
+<br/>
+
+Victory Matriculation Higher Secondary School, Chennai. **Percentage: 86**
+
+</details>
+
+<br/>
+
+## Certifications
+
+<div align="center">
+
+| Certification | Issuer | Date |
+|:---|:---|:---:|
+| Data Structures and Algorithms Using Java | Infosys Springboard | Apr 2026 |
+| Programming in Java | NPTEL (SWAYAM) | Apr 2026 |
+| Cyber Threat Management | Cisco Networking Academy | Feb 2026 |
+
+</div>
 
 <br/>
 
@@ -153,26 +188,6 @@ An internship project that applies machine learning to business lead prioritizat
 </picture>
 
 </div>
-
-<br/>
-
-## Education and experience
-
-<details>
-<summary><b>Education</b></summary>
-<br/>
-
-**B.E. Computer Science and Engineering**, R.M.D. Engineering College, Chennai. Expected graduation: 2027.
-
-</details>
-
-<details>
-<summary><b>Experience</b></summary>
-<br/>
-
-**Virtual intern, Infosys Springboard.** Worked on AI-driven lead scoring and ABM optimization for business lead prioritization.
-
-</details>
 
 <br/>
 
