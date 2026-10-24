@@ -1,256 +1,221 @@
+
 <div align="center">
 
 # Hi 👋, I'm Gowtham N
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Java+Developer;Spring+Boot+Developer;React.js+Developer;Always+Learning+New+Technologies;Welcome+to+My+GitHub!" alt="Typing SVG" />
+### 🎓 Computer Science Engineering Student | Aspiring Software Engineer
 
-<img src="https://komarev.com/ghpvc/?username=GowthamN7401&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Java+%7C+Python+%7C+Full+Stack+Development;Exploring+AI%2FML+%26+Cybersecurity;Learn+%7C+Build+%7C+Improve" alt="Typing SVG"/>
+</p>
+
+<p>
+  <a href="https://github.com/GowthamN7401">
+    <img src="https://img.shields.io/badge/GitHub-GowthamN7401-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gowtham-n-755333312/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:gowthamnatraj8@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=GowthamN7401&style=flat-square&color=blue" alt="Profile Views"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-🎓 **Computer Science Engineering Student** at **R.M.D Engineering College**
-
-💻 Passionate about **Software Development** and solving real-world problems.
-
-🌱 Currently learning
-
-- Java
-- Spring Boot
-- React.js
-- REST APIs
-- MySQL
-- Data Structures & Algorithms
-
-🚀 Interested in
-
-- Full Stack Development
-- Backend Development
-- Artificial Intelligence
-- Cyber Security
-
-🎯 Goal
-
-Become a **Software Engineer** and build scalable applications that solve real-world problems.
+- 🎓 Pursuing B.E. in Computer Science and Engineering at **R.M.D. Engineering College**
+- 📅 Expected graduation: **2027**
+- 💻 Interested in software development, backend engineering, and full-stack development
+- 🤖 Exploring AI/ML, graph machine learning, and cybersecurity
+- 🛠️ Enjoy building practical projects and solving real-world problems
+- 🌱 Currently learning Java, Spring Boot, React.js, REST APIs, MySQL, and DSA
+- 🎯 Looking for suitable software development internships and fresher opportunities
 
 ---
 
-# 🌐 Connect With Me
+## 🧰 Tech Stack
 
-<p align="left">
-
-<a href="https://github.com/GowthamN7401">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://portfolio-link.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,c,cpp"/>
-
+  <img src="https://skillicons.dev/icons?i=java,python,js" alt="Java, Python, JavaScript"/>
 </p>
 
-### Frontend
+### 🎨 Frontend Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="HTML, CSS, React, Tailwind CSS"/>
 </p>
 
-### Backend
+### ⚙️ Backend Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
+  <img src="https://skillicons.dev/icons?i=spring,fastapi" alt="Spring Boot and FastAPI"/>
 </p>
 
-### Database
+### 🗄️ Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,supabase"/>
-
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="MySQL and SQLite"/>
 </p>
 
-### Tools
+### 🔧 Tools and Platforms
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,azure" alt="Git, GitHub, Linux, VS Code, Azure"/>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-## 🔹 Career Connect
-
-**Full Stack Job Portal**
-
-**Tech Stack**
-
-- React.js
-- Clerk Authentication
-- Supabase
-- Tailwind CSS
-
-✔ User Authentication
-
-✔ Responsive UI
-
-✔ Modern Dashboard
-
-✔ Job Search Platform
+**Core Concepts:** Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), REST APIs, DBMS, and Computer Networks.
 
 ---
 
-## 🔹 Graph-Based Intrusion Detection System
+## 🚀 Featured Projects
 
-AI-powered Network Intrusion Detection System.
+### 🛡️ 1. RiskPlatform — Vulnerability Risk Prioritization Platform
 
-### Features
+**Tech Stack:** Python · FastAPI · Scikit-learn · NetworkX · SQLite · Microsoft Azure
 
-- Graph Machine Learning
-- Network Attack Detection
-- Cyber Security
-- Intelligent Threat Analysis
+A cybersecurity-focused platform designed to consolidate vulnerability scan results and help prioritize remediation.
 
----
+**Key Features**
+- 🔍 Ingests vulnerability scan results from OWASP ZAP and OpenVAS.
+- ♻️ Implements vulnerability deduplication to reduce duplicate alerts.
+- 🤖 Uses a three-stage Random Forest model for false-positive filtering.
+- 📊 Incorporates threat intelligence signals into vulnerability risk scoring.
+- 🎯 Supports dynamic risk scoring and P1–P4 remediation tracking.
 
-## 🔹 AI-Driven B2B Lead Scoring & ABM Optimization
-
-**Infosys Springboard Virtual Internship Project**
-
-### Features
-
-- AI Lead Scoring
-- Customer Analysis
-- Machine Learning
-- Marketing Optimization
+🔗 **[View RiskPlatform Repository](https://github.com/GowthamN7401/risk-platform-docker)**
 
 ---
 
-# 🏆 GitHub Trophies
+### 💼 2. CareerConnect — Job Portal
 
-<p align="center">
+**Tech Stack:** HTML · CSS · JavaScript · Spring Boot · MySQL
 
-<img src="https://github-profile-trophy.vercel.app/?username=GowthamN7401&theme=algolia&row=2&column=4"/>
+A job portal project designed to connect job seekers and employers through a web-based platform.
 
+**Key Features**
+- 🔐 User registration and role-based authentication.
+- 👥 Job seeker and employer workflows.
+- 🔎 Job posting, job search, and job application functionality.
+- 📄 Resume upload and job management.
+- 📱 Responsive and user-friendly interface.
+
+🔗 **[Explore CareerConnect and My Repositories](https://github.com/GowthamN7401?tab=repositories)**
+
+---
+
+### 🕸️ 3. Graph-Based Intrusion Detection System
+
+**Focus:** Python · Graph Machine Learning · Cybersecurity
+
+An academic project exploring graph-based approaches to network intrusion detection.
+
+**Key Areas**
+- 🌐 Graph-based network relationship analysis.
+- 🔎 Network attack detection.
+- 🤖 Graph machine learning concepts.
+- 🛡️ Intelligent threat analysis.
+
+🔗 **[Explore My GitHub Repositories](https://github.com/GowthamN7401?tab=repositories)**
+
+---
+
+### 📈 4. AI-Driven B2B Lead Scoring & ABM Optimization
+
+**Program:** Infosys Springboard Virtual Internship
+
+An AI/ML-based project focused on business lead analysis and prioritization.
+
+**Key Areas**
+- 🤖 AI-driven lead scoring.
+- 📊 Customer and lead analysis.
+- 🎯 Business lead prioritization.
+- 📈 Account-Based Marketing (ABM) optimization.
+
+🔗 **[View Internship Project Repository](https://github.com/GowthamN7401/infosys-internship-project)**
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GowthamN7401&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamN7401&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=GowthamN7401&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 🎓 Education & Experience
+
+🎓 **B.E. Computer Science and Engineering**  
+R.M.D. Engineering College, Chennai  
+Expected Graduation: 2027
+
+💼 **Infosys Springboard — Virtual Internship**  
+Project: AI-Driven B2B Lead Scoring Optimization
+
+---
+
+## 📚 Currently Learning
+
+- ☕ Java and Spring Boot
+- ⚛️ React.js and full-stack development
+- 🔌 REST API development
+- 🗄️ MySQL and database management
+- 🧠 Data Structures and Algorithms
+- 🤖 Graph Machine Learning
+- 🔐 Cybersecurity fundamentals
+
+---
+
+## 🎯 My Goals
+
+- [ ] Strengthen Java and Spring Boot development
+- [ ] Improve DSA and problem-solving skills
+- [ ] Build and deploy useful full-stack applications
+- [ ] Explore LLM APIs and AI-powered applications
+- [ ] Develop more cybersecurity projects
+- [ ] Contribute to open-source projects
+- [ ] Secure a software engineering role after graduation
+
+---
+
+## 🤝 Connect With Me
+
+I'm interested in connecting with developers, learning from the tech community, collaborating on projects, and exploring internship and fresher opportunities.
+
+<p>
+  <a href="https://github.com/GowthamN7401">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gowtham-n-755333312/">
+    <img src="https://img.shields.io/badge/LinkedIn-My_Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+  </a>
+  <a href="mailto:gowthamnatraj8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
 </p>
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GowthamN7401&show_icons=true&theme=tokyonight"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=GowthamN7401&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Most Used Languages
-
-<p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamN7401&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GowthamN7401&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/GowthamN7401/GowthamN7401/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-- Spring Boot
-- React.js
-- REST APIs
-- Java
-- MySQL
-- DSA
-- Graph Machine Learning
-
----
-
-# 💡 Fun Fact
-
-> "Code. Learn. Build. Repeat." 🚀
-
----
-
-# 🎯 2026 Goals
-
-✅ Master Spring Boot
-
-✅ Become Full Stack Developer
-
-✅ Solve 500+ DSA Problems
-
-✅ Build Open Source Projects
-
-✅ Get Placed as a Software Engineer
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💡 Code. Learn. Build. Improve. 🚀
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Happy+Coding!;Keep+Learning!;Never+Stop+Building!"/>
+**Thanks for visiting my profile!**
 
-**If you like my work, don't forget to ⭐ my repositories!**
+⭐ Feel free to explore my repositories and projects.
 
 </div>
